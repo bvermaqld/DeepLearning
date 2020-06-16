@@ -1,0 +1,5 @@
+New Deep Learning Model for Road Safety Attribute Detection
+
+The program with trained models is too big (4.7gb) so unable to upload to GitHub.
+
+You can download DeepLearningModel.zip file using following link: https://drive.google.com/file/d/1QGxofiBeZ_cLqeghOye3Wl3pouLqiYP5/view?usp=sharing
